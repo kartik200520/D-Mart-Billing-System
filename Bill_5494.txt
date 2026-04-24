@@ -1,0 +1,19 @@
+	Welcome to Retail Billing System
+
+Bill Number: 5494
+Customer Name: kaerik
+Phone Number: 4597694349
+====================================
+Product		Qty	Price
+====================================
+Bath Soap		3	120
+Wheat		4	180
+Frooti		7	385
+------------------------------------
+Cosmetic Tax: Rs 6.0
+Grocery Tax: Rs 9.0
+Cold Drink Tax: Rs 19.25
+
+Total Bill: Rs 719.25
+------------------------------------
+
